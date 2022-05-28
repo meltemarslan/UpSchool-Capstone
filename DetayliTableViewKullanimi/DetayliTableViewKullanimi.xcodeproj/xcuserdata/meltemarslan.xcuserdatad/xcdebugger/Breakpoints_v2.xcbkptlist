@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43DC8521-AB03-4C17-A171-88538314AD9A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA312D1C-2FC7-4DC0-AD4F-4C09E84947F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetayliTableViewKullanimi/detay-module/view/DetayVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetayVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DA312D1C-2FC7-4DC0-AD4F-4C09E84947F5 - 623ac6e1bcb9eaac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetayliTableViewKullanimi.DetayVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DetayliTableViewKullanimi.DetayVC"
+                  moduleName = "DetayliTableViewKullanimi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meltemarslan/Desktop/IOS%20HW/DetayliTableViewKullanimi/DetayliTableViewKullanimi/detay-module/view/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "DA312D1C-2FC7-4DC0-AD4F-4C09E84947F5 - 309196d6e05e8eea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetayliTableViewKullanimi.DetayVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DetayliTableViewKullanimi.DetayVC&gt;"
+                  moduleName = "DetayliTableViewKullanimi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meltemarslan/Desktop/IOS%20HW/DetayliTableViewKullanimi/DetayliTableViewKullanimi/detay-module/view/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FB505AA-06A8-414A-B159-7D1B9D34CDE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetayliTableViewKullanimi/detay-module/view/DetayVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetayVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
